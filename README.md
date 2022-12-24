@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![GIF](<div style="padding-top:75.417%;position:relative;"><iframe src="https://gifer.com/embed/CkxA" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>)
+![GIF](https://i.gifer.com/fetch/w300-preview/88/88bb17907287c90a299d2bc593421560.gif)
   
 </div>
 
-_Меня зовут Сергей. Я QA Enginner - специализируюсь на тестировании API и мобильных приложений.
+Привет. Меня зовут Сергей. Я QA Enginner - специализируюсь на тестировании API и мобильных приложений.
 
 ## My CV 
 
