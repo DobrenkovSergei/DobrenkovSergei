@@ -1,11 +1,20 @@
-# Приветствие  🦕
+# Привет  🦕
 
 <div align="center">
 
 ![Gif](https://media.giphy.com/media/l2Je43PzMqrAzNNm0/giphy.gif)
 </div>
 
-Привет. Меня зовут Сергей. Я QA Enginner - специализируюсь на тестировании API и мобильных приложений.
+Меня зовут Сергей. Я QA Enginner.
+- Что умею:
+  - Умею составлять классные тест-планы релиза;
+  - Создаю детальные баг-репорты;
+  - Разбираюсь в HTTP и REST API;
+  - Пишу простые SQL запросы к БД (умею SELECT и JOIN);
+  - Есть опыт работы с тасктрекером: Trello, Jira и Yandex Tracker;
+  - Работаю с postman: могу создать и пошерить коллекцию запросов и использовать разные environment;
+  - Работаю с charles: применяю breakpoints, map local, map remote и rewrite;
+  - Работаю с devtools: смотрю состав запросов network, меняю куки и тротлю интернет;
 
 ## My CV 
 
@@ -24,8 +33,6 @@
   
 
 ## Инструменты и технологии
-Блок для инструментов. Вы можете использовать мои иконки или создать папку у себя в проекте
-
 
 <p align="left">
 <a href="https://qase.io/">
@@ -101,9 +108,6 @@
 
 ## Мои контакты
 
-[![HH.ru: jennaqa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/jennaqa](https://samara.hh.ru/resume/6080c3e9ff0047c8290039ed1f736563726574))
-[![Email to: jennaqa](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](mailto:dobrenkovsergei@mail.ru)
-[![VK: jennaqa](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://vk.com/id22235809/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Sergei_Dobrenkov/)
 
 
