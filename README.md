@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GIF](<iframe src="https://giphy.com/embed/citBl9yPwnUOs" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-simpsons-computer-confused-citBl9yPwnUOs">via GIPHY</a></p>)
+![GIF](https://giphy.com/gifs/the-simpsons-computer-confused-citBl9yPwnUOs)
   
 </div>
 
