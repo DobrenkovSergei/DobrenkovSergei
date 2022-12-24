@@ -2,7 +2,7 @@
 
 <div align="center">
 
--[Gif](https://gifer.com/ru/embed/CkxA )
+![Gif](https://gifer.com/ru/embed/CkxA )
 </div>
 
 Привет. Меня зовут Сергей. Я QA Enginner - специализируюсь на тестировании API и мобильных приложений.
