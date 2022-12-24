@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/citBl9yPwnUOs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/the-simpsons-computer-confused-citBl9yPwnUOs">via GIPHY</a></p>
-  
+-[Gif](https://gifer.com/ru/embed/CkxA )
 </div>
 
 Привет. Меня зовут Сергей. Я QA Enginner - специализируюсь на тестировании API и мобильных приложений.
