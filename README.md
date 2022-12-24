@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GIF](https://i.gifer.com/CkxA.gif)
+![GIF](<iframe src="https://gifer.com/embed/CkxA" width=480 height=362.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>)
   
 </div>
 
