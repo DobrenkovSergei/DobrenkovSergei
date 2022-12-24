@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Gif](https://media.giphy.com/media/3orif6PRscRiVSM4tG/giphy.gif)
+![Gif](https://media.giphy.com/media/l2Je43PzMqrAzNNm0/giphy.gif)
 </div>
 
 Привет. Меня зовут Сергей. Я QA Enginner - специализируюсь на тестировании API и мобильных приложений.
