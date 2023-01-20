@@ -7,7 +7,7 @@
 
 Меня зовут Сергей. Я QA Enginner.
 - Что умею:
-    - Умею составлять классные тест-планы релиза;
+   - Умею составлять классные тест-планы релиза;
    - Создаю детальные баг-репорты;
    - Разбираюсь в HTTP и REST API;
    - Пишу простые SQL запросы к БД (умею SELECT и JOIN);
@@ -16,7 +16,7 @@
    - Работаю с charles: применяю breakpoints, map local, map remote и rewrite;
    - Работаю с devtools: смотрю состав запросов network, меняю куки и тротлю интернет;
 
-## My CV 
+## Резюме
 
 [Резюме](https://samara.hh.ru/resume/6080c3e9ff0047c8290039ed1f736563726574)
 
@@ -94,5 +94,5 @@
 ## Мои контакты
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Sergei_Dobrenkov/)
-
-
+[![Instagramm]()](http://instagram.com/carnerocraft)
+[![Email]()](mailto:dobrenkovsergei@mail.ru)
