@@ -92,7 +92,14 @@
 </p>
 
 ## Мои контакты
+   <a href="https://t.me/Sergei_Dobrenkov/">
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Telegram.png " alt="Telegram" width="50" height="50" />
+</a>
+   <a href="http://instagram.com/carnerocraft">
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/instagram.png " alt="Instagram" width="70" height="70" />
+</a>
+   <a href="mailto:dobrenkovsergei@mail.ru">
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Mail.png " alt="Email" width="50" height="50" />
+</a>
 
-[![Telegram Badge]https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Telegram.png)](https://t.me/Sergei_Dobrenkov/)
-[![Instagramm](https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/instagram.png)](http://instagram.com/carnerocraft)
-[![Email](https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Mail.png)](mailto:dobrenkovsergei@mail.ru)
+
