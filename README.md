@@ -36,61 +36,58 @@
 
 <p align="left">
 <a href="https://qase.io/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Qase.io.png" alt="Qase.io" width="50" height="50" />
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Qase.io.png" alt="Qase.io" width="50" height="50" />
 </a>
 <a href="https://testit.software/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/TestIT.png" alt="TestIT" width="50" height="50" />
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/TestIT.png" alt="TestIT" width="50" height="50" />
 </a>
 <a href="https://www.gurock.com/testrail">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/TestRail.png" alt="TestRail" width="50" height="50" />
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/TestRail.png" alt="TestRail" width="50" height="50" />
 </a>
 <a href="https://www.charlesproxy.com/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
 </a>
 <a href="https://www.telerik.com/fiddler">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Fiddler.png" alt="Fiddler" width="50" height="50" /> 
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Fiddler.png" alt="Fiddler" width="50" height="50" /> 
 </a>
 <a href="https://grafana.com/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Grafana.png" alt="Grafana" width="50" height="50" />
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Grafana.png" alt="Grafana" width="50" height="50" />
 </a>
 <a href="https://firebase.google.com/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Firebase.png" alt="Firebase" width="50" height="50" /> 
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Firebase.png" alt="Firebase" width="50" height="50" /> 
 </a>
 <a href="https://sentry.io/welcome/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Sentry.png" alt="Sentry" width="50" height="50" />
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Sentry.png" alt="Sentry" width="50" height="50" />
 </a>
 <a href="https://miro.com/ru/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Amplitude.png" alt="Sentry" width="90" height="50" />
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Miro.png" alt="Miro" width="90" height="50" />
 </a>
-<a href="https://codemagic.io/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Codemagic.png" alt="Codemagic" width="50" height="50" /> 
+<a href="https://code.visualstudio.com/">
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Visual_Studio_Code.png" alt="Visual Studio Code" width="50" height="50" /> 
 </a>
-<a href="https://www.jetbrains.com/teamcity/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/TeamCity.png" alt="Teamcity" width="50" height="50" />
+<a href="https://www.metabase.com/">
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Metabase.png" alt="Metabase" width="50" height="50" />
 </a>
-<a href="https://developer.apple.com/testflight/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Testflight.png" alt="Testflight" width="50" height="50" />
-</a> 
 <a href="https://developer.apple.com/xcode/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Xcode.png" alt="Xcode" width="50" height="50" />
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Xcode.png" alt="Xcode" width="50" height="50" />
 </a> 
 <a href="https://developer.android.com/studio">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Android%20Studio.png" alt="Android Studio" width="50" height="50" />
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Android Studio.png" alt="Android Studio" width="50" height="50" />
 </a>
 <a href="https://figma.com">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Figma.svg" alt="Figma" width="50" height="50" /> 
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Figma.svg" alt="Figma" width="50" height="50" /> 
 </a>
 <a href="https://www.atlassian.com/software/jira">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" />
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" />
 </a>
 <a href="https://www.postman.com/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
 </a>
 <a href="https://swagger.io/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
 </a>
 <a href="https://dbeaver.io/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/DBeaver.png" alt="DBeaver" width="50" height="50" />
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/DBeaver.png" alt="DBeaver" width="50" height="50" />
 </a>
 </p>
 
