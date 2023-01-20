@@ -96,7 +96,7 @@
 <img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Telegram.png " alt="Telegram" width="50" height="50" />
 </a>
    <a href="http://instagram.com/carnerocraft">
-<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/instagram.png " alt="Instagram" width="70" height="70" />
+<img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/instagram.png " alt="Instagram" width="50" height="50" />
 </a>
    <a href="mailto:dobrenkovsergei@mail.ru">
 <img src="https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Mail.png " alt="Email" width="50" height="50" />
