@@ -93,6 +93,6 @@
 
 ## Мои контакты
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Sergei_Dobrenkov/)
-[![Instagramm]()](http://instagram.com/carnerocraft)
-[![Email]()](mailto:dobrenkovsergei@mail.ru)
+[![Telegram Badge]https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Telegram.png)](https://t.me/Sergei_Dobrenkov/)
+[![Instagramm](https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/instagram.png)](http://instagram.com/carnerocraft)
+[![Email](https://github.com/DobrenkovSergei/DobrenkovSergei/blob/main/icons/Mail.png)](mailto:dobrenkovsergei@mail.ru)
