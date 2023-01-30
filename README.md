@@ -18,18 +18,13 @@
 
 ## Резюме
 
-[Резюме](https://samara.hh.ru/resume/6080c3e9ff0047c8290039ed1f736563726574)
+    -[Резюме](https://samara.hh.ru/resume/6080c3e9ff0047c8290039ed1f736563726574)
 
 ## Портфолио 
 - Тестовая документация
     -  [Чек-листы](https://miro.com/app/board/uXjVPDAAec4=/)
-    -  [Тест-кейсы](https://ссылочку_сюда)
-    -  [Mind maps](https://ссылочку_сюда)
-    -  [Баг-репорты](https://ссылочку_сюда)
-- Коллекция в Postman 
-    -  [Название проекта](https://documenter.getpostman.com/view/23838005/2s8Z6vYZT5)
-- SQL запросы 
-    -  [Название проектa](https://ссылочку_сюда)
+    -  [Mind maps](https://miro.com/app/board/uXjVPDAAec4=/?moveToWidget=3458764544688325341&cot=14)
+    -  [Коллекция в Postman](https://documenter.getpostman.com/view/23838005/2s8Z6vYZT5)
   
 
 ## Инструменты и технологии
