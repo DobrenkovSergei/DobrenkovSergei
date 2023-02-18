@@ -18,13 +18,10 @@
 
 ## Резюме
 
--  ![Резюме](https://samara.hh.ru/resume/6080c3e9ff0047c8290039ed1f736563726574)
+-  ![Резюме](https://hh.ru/resume/295e2891ff0bab2d200039ed1f693242477655)
 
 ## Портфолио 
-- Тестовая документация
-    -  [Чек-листы](https://miro.com/app/board/uXjVPDAAec4=/)
-    -  [Mind maps](https://miro.com/app/board/uXjVPDAAec4=/?moveToWidget=3458764544688325341&cot=14)
-    -  [Коллекция в Postman](https://documenter.getpostman.com/view/23838005/2s8Z6vYZT5)
+    -  [Mind maps](https://miro.com/app/board/uXjVPDAAec4=/)
   
 
 ## Инструменты и технологии
