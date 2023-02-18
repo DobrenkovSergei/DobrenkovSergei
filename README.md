@@ -18,10 +18,10 @@
 
 ## Резюме
 
--  ![Резюме](https://hh.ru/resume/295e2891ff0bab2d200039ed1f693242477655)
+-   ![Резюме](https://hh.ru/resume/295e2891ff0bab2d200039ed1f693242477655)
 
 ## Портфолио 
-    -  [Mind maps](https://miro.com/app/board/uXjVPDAAec4=/)
+-   ![Mind maps](https://miro.com/app/board/uXjVPDAAec4=/)
   
 
 ## Инструменты и технологии
